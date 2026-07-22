@@ -3,7 +3,7 @@ AI-assisted paywall research workflow that reduced analysis time from ~21h to ~3
 
 # 📊 AI Paywall Research
 
-![Cover](images/cover.png)
+
 
 > **AI-assisted research workflow for analyzing subscription UX, paywall patterns, and conversion optimization.**
 
@@ -70,7 +70,7 @@ The report analyzes subscription UX patterns used by leading mobile apps and com
 
 ➡️ **[20 Paywalls That Actually Convert](subscription-ux-research.pdf)**
 
-![Research Preview](images/report-preview.png)
+
 
 ---
 
