@@ -65,6 +65,8 @@ The report analyzes subscription UX patterns used by leading mobile apps and com
 - real product examples
 - actionable recommendations
 
+![Research Preview](images/report-preview.png)
+
 ---
 
 ## AI Workflow
